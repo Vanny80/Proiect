@@ -1,0 +1,25 @@
+body{
+background-color: blue rgb(42, 170, 16);
+}
+title {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+#grad {
+
+}
+form{display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+.name{
+flex: 1 0 130px;
+}
+.email{
+flex: 1 0 130px;
+}
+button{
+flex: 1 0 40px;
+}
